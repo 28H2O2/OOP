@@ -1,0 +1,1 @@
+canvas.printstr(50, 50, "boundary");
