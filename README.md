@@ -1,2 +1,2 @@
-# OOP_C-
+# OOP_C++
 2022 spring OOP
