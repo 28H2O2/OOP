@@ -1,0 +1,5 @@
+text(10, 5, "OOP")
+color(1)
+line(1, 2, 48, 47)
+text(10, 5, "OOP")
+text(5, 45, "Bounday")

@@ -1,0 +1,8 @@
+主要使用lab5中的画图思路与lab3中读取文件的方法
+想尝试使用command模式
+Processor类为invoker
+Coord类为抽象类而Coord_gray Coord_mono为两个concreteCommand
+对于宏定义：
+View类组合了Coord
+使用macro_vec来记录宏的名称以及操作
+使用func_vec对数据进行记录

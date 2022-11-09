@@ -1,0 +1,22 @@
+//底部的一条分割横线
+#bottomLine(50,10){
+ color(255)
+ line(0,0,50,0)
+}
+//带一个下划线的时间
+#startTimeView(50,10){
+ color(128)
+ !bottomLine(0, 0)
+ text(0,1,"08:55") 
+}
+//另一个带下划线的时间
+#finishTimeView(50,10){
+ color(80)
+ !bottomLine(0, 0)
+ text(0,1,"13:55") 
+}
+color(255)
+text(7,40,"Time")
+!startTimeView(5,30)
+text(20,24,"~")
+!finishTimeView(5,10)
